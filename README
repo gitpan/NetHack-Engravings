@@ -1,7 +1,7 @@
 
 
 This archive contains the distribution NetHack-Engravings,
-version 0.01:
+version 0.02:
 
   functions related to NetHack engravings
 
@@ -9,6 +9,6 @@ This software is Copyright (c) 2013 by Jesse Luehrs.
 
 This is free software, licensed under:
 
-  The GNU General Public License, Version 2, June 1991
+  The NetHack General Public License
 
 

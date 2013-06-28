@@ -9,6 +9,7 @@ dist.ini
 lib/NetHack/Engravings.pm
 t/00-compile.t
 t/is_degradation.t
+t/is_maybe_preengraved.t
 t/lib/Test/NetHack/Engravings.pm
 xt/release/eol.t
 xt/release/no-tabs.t

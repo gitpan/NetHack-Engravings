@@ -11,7 +11,7 @@ configure_requires:
   ExtUtils::MakeMaker: 6.30
 dynamic_config: 0
 generated_by: 'Dist::Zilla version 4.300034, CPAN::Meta::Converter version 2.120921'
-license: gpl
+license: unrestricted
 meta-spec:
   url: http://module-build.sourceforge.net/META-spec-v1.4.html
   version: 1.4
@@ -24,7 +24,7 @@ resources:
   bugtracker: http://rt.cpan.org/Public/Dist/Display.html?Name=NetHack-Engravings
   homepage: http://metacpan.org/release/NetHack-Engravings
   repository: git://github.com/doy/nethack-engravings.git
-version: 0.01
+version: 0.02
 x_Dist_Zilla:
   perl:
     version: 5.018000
